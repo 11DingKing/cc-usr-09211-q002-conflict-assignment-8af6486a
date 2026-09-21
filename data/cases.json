@@ -1,0 +1,38 @@
+[
+  {
+    "case_id": "CASE-A",
+    "project_id": "PRJ-A",
+    "window_start": "2026-05-01",
+    "window_end": "2026-05-31",
+    "region": "华东",
+    "emergency": "urgent",
+    "required_roles": [
+      "site_tech",
+      "material_review"
+    ]
+  },
+  {
+    "case_id": "CASE-B",
+    "project_id": "PRJ-B",
+    "window_start": "2026-06-01",
+    "window_end": "2026-06-30",
+    "region": "华东",
+    "emergency": "normal",
+    "required_roles": [
+      "site_tech",
+      "material_review"
+    ]
+  },
+  {
+    "case_id": "CASE-C",
+    "project_id": "PRJ-C",
+    "window_start": "2026-07-01",
+    "window_end": "2026-07-31",
+    "region": "华南",
+    "emergency": "critical",
+    "required_roles": [
+      "site_tech",
+      "material_review"
+    ]
+  }
+]

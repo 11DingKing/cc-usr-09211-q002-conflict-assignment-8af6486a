@@ -1,0 +1,157 @@
+[
+  {
+    "person_id": "P001",
+    "qualifications": ["site_tech", "material_review"],
+    "capacity": 1,
+    "region": "华东",
+    "project_links": [
+      {
+        "kind": "employment",
+        "project_id": "PRJ-A",
+        "effective_date": "2026-01-01",
+        "end_date": "2026-03-31",
+        "evidence": "EMP-A-001"
+      },
+      {
+        "kind": "employment",
+        "project_id": "PRJ-C",
+        "effective_date": "2026-07-02",
+        "end_date": "2026-07-20",
+        "evidence": "EMP-C-001"
+      }
+    ]
+  },
+  {
+    "person_id": "P002",
+    "qualifications": ["site_tech"],
+    "capacity": 1,
+    "region": "华东",
+    "project_links": [
+      {
+        "kind": "kin_declaration",
+        "project_id": "PRJ-C",
+        "effective_date": "2026-07-08",
+        "end_date": null,
+        "evidence": "KIN-C-002"
+      }
+    ]
+  },
+  {
+    "person_id": "P003",
+    "qualifications": ["material_review"],
+    "capacity": 2,
+    "region": "华东",
+    "project_links": [
+      {
+        "kind": "kin_declaration",
+        "project_id": "PRJ-A",
+        "effective_date": "2026-05-10",
+        "end_date": null,
+        "evidence": "KIN-A-003"
+      },
+      {
+        "kind": "kin_declaration",
+        "project_id": "PRJ-B",
+        "effective_date": "2026-06-08",
+        "end_date": null,
+        "evidence": "KIN-B-003"
+      }
+    ]
+  },
+  {
+    "person_id": "P004",
+    "qualifications": ["material_review"],
+    "capacity": 2,
+    "region": "华北",
+    "project_links": []
+  },
+  {
+    "person_id": "P005",
+    "qualifications": ["site_tech", "material_review"],
+    "capacity": 1,
+    "region": "华东",
+    "project_links": [
+      {
+        "kind": "acceptance_signoff",
+        "project_id": "PRJ-A",
+        "effective_date": "2026-05-20",
+        "end_date": null,
+        "evidence": "ACC-A-005"
+      },
+      {
+        "kind": "kin_declaration",
+        "project_id": "PRJ-C",
+        "effective_date": "2026-07-09",
+        "end_date": null,
+        "evidence": "KIN-C-005"
+      },
+      {
+        "kind": "acceptance_signoff",
+        "project_id": "PRJ-B",
+        "effective_date": "2026-06-10",
+        "end_date": null,
+        "evidence": "ACC-B-005"
+      }
+    ]
+  },
+  {
+    "person_id": "P006",
+    "qualifications": ["site_tech", "material_review"],
+    "capacity": 3,
+    "region": "华北",
+    "project_links": [
+      {
+        "kind": "acceptance_signoff",
+        "project_id": "PRJ-C",
+        "effective_date": "2026-07-12",
+        "end_date": null,
+        "evidence": "ACC-C-006"
+      }
+    ]
+  },
+  {
+    "person_id": "P007",
+    "qualifications": ["site_tech"],
+    "capacity": 1,
+    "region": "华南",
+    "project_links": [
+      {
+        "kind": "employment",
+        "project_id": "PRJ-C",
+        "effective_date": "2026-06-15",
+        "end_date": "2026-07-15",
+        "evidence": "EMP-C-007"
+      }
+    ]
+  },
+  {
+    "person_id": "P008",
+    "qualifications": ["material_review"],
+    "capacity": 2,
+    "region": "华南",
+    "project_links": [
+      {
+        "kind": "kin_declaration",
+        "project_id": "PRJ-C",
+        "effective_date": "2026-07-10",
+        "end_date": null,
+        "evidence": "KIN-C-008"
+      }
+    ]
+  },
+  {
+    "person_id": "P009",
+    "qualifications": ["site_tech", "material_review"],
+    "capacity": 1,
+    "region": "华南",
+    "project_links": [
+      {
+        "kind": "acceptance_signoff",
+        "project_id": "PRJ-C",
+        "effective_date": "2026-07-05",
+        "end_date": null,
+        "evidence": "ACC-C-009"
+      }
+    ]
+  }
+]
